@@ -4,7 +4,7 @@
 // You can get a Steam API Key by visiting http://steamcommunity.com/dev/apikey
 // Don't worry about the web address, it won't have any effect so just type in any web site
 // Once you have your steam API Key simply paste the key below. (Make sure the quotation marks are still there or else it won't work)
-$SteamAPIKey = "INSERT YOUR STEAM API KEY HERE";
+$SteamAPIKey = "https://silvagmodgmodgmod.netlify.app";
 
 // Don't edit any of the PHP stuff here or else you may break the script
 // If you website isn't displaying correctly then please make sure you have configured your loading url correctly
